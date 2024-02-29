@@ -1,0 +1,32 @@
+.Slider{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-bottom: 10px;
+    border-bottom: 1px solid  #EBEBEB ;
+}
+.imagecontainer{
+    display:flex;
+    justify-content: center;
+    
+}
+.slidercontroll{
+    width: 58px;
+    height:110px ;
+    background-color:rgba(217, 217, 217,0.5);
+   
+    position:absolute;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.slidercontroll Image{
+    fill:white;
+}
+.next{
+   right:0px;
+}
+.prev{
+    left:0px;
+}

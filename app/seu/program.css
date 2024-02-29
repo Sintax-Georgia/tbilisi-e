@@ -1,0 +1,16 @@
+.program{
+    width: 90%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-Size:16px;
+    line-height:19.76px;
+    font-weight: 400;
+    border-bottom:1px solid #EBEBEB;
+}
+.programprice{
+    font-weight:700;
+}
+.programname{
+    width:325px;
+}

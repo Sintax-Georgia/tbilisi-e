@@ -1,0 +1,25 @@
+.interaction{
+   
+    display:flex;
+    flex-direction: column;
+}
+.interactionsvg{
+    display:flex;
+    justify-content: center;
+}
+.interactiontext{
+    display:flex;
+    justify-content: center;
+    color:#979797;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.4px;
+}
+.interactionlink{
+    text-decoration: none;
+}
+.line{
+    width:80px;
+    height:3px;
+   
+}

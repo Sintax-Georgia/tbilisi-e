@@ -1,0 +1,27 @@
+.interactions{
+    width:100%;
+    height:100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:70px;
+    border-bottom: 1px solid #EBEBEB ;
+    margin-bottom: 20px;
+} 
+.interactions:first-child{
+    background-color: #0A1125;
+}
+.filter{
+    width:134px;
+    height:56px;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.2px;
+    align-items: center;
+    gap:10px;
+    border:1px solid #F0ECEC;
+
+
+}

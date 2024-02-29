@@ -1,0 +1,27 @@
+.request{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.sendrequest{
+    width:217px;
+    height: 56px;
+    background-color: #EC3636;
+
+    display:flex;
+    justify-content: center;
+
+}
+.sendrequest{
+    color:#F8F8F8;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 21.6px;
+}
+.social{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
